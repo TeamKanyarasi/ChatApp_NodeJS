@@ -1,0 +1,2 @@
+axios
+react-chat-engine-pretty
